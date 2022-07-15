@@ -1,6 +1,9 @@
 # Testes de API com rest-assured utilizando Java 8
-Rodando a API
-O repositório consiste em uma pequena API para cadastro de customers(comprador portador de um cartão) e cards(cartões) para seus respectivos portadores. O projeto está utilizando Java 8 e usamos o maven para gerenciamento de pacotes, portanto antes de tudo você deve ter os dois instalados na sua máquina e baixar o projeto. Para rodar a api basta digitar os comandos dentro da pasta principal do projeto:
+
+O repositório consiste em uma várias pequenas API para estudos e testes via swagger e sites normais. O projeto está utilizando Java 8 e usamos o maven para gerenciamento de pacotes, portanto antes de tudo você deve ter os dois instalados na sua máquina e baixar o projeto. Para rodar a api basta digitar os comandos dentro da pasta principal do projeto abaixo:
+
+
+Para rodar a API que está testando pelo swagger é necessário rodar os seguintes comandos:
 
 mvn clean install
 
