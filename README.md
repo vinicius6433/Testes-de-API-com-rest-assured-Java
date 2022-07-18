@@ -11,4 +11,4 @@ e depois
 
 mvn spring-boot:run
 
-para rodar no eclipse é necessário seguir os seguintes passos: Ir até o POM.xml -> Run configurations -> Maven Build -> "New Configuration" -> no campo goals escrever -> mvn clean install -> acionar Run. 
+para rodar no eclipse é necessário seguir os seguintes passos: Ir até o POM.xml -> Run configurations -> Maven Build -> "New Configuration" -> no campo goals escrever -> mvn clean install -> acionar Run, após fazr um clean install é necessário iniciar o servidor com mvn spring-boot:run
